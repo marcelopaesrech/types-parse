@@ -1,0 +1,44 @@
+{
+  "name": "types-parse",
+  "version": "2.4.7",
+  "description": "TypeScript definitions for parse",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": " Ullisen Media Group",
+      "url": "http://ullisenmedia.com"
+    },
+    {
+      "name": "David Poetzsch-Heffter",
+      "url": "https://github.com/dpoetzsch",
+      "githubUsername": "dpoetzsch"
+    },
+    {
+      "name": "Cedric Kemp",
+      "url": "https://github.com/jaeggerr",
+      "githubUsername": "jaeggerr"
+    },
+    {
+      "name": "Flavio Negrão",
+      "url": "https://github.com/flavionegrao",
+      "githubUsername": "flavionegrao"
+    },
+    {
+      "name": "Wes Grimes",
+      "url": "https://github.com/wesleygrimes",
+      "githubUsername": "wesleygrimes"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agoldis/types-parse.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*",
+    "@types/jquery": "*",
+    "@types/underscore": "*"
+  },
+  "typeScriptVersion": "2.4"
+}
