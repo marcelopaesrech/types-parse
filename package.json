@@ -40,5 +40,6 @@
     "@types/jquery": "*",
     "@types/underscore": "*"
   },
+  "typings": "index.d.ts",
   "typeScriptVersion": "2.4"
 }
