@@ -40,6 +40,7 @@
     "@types/jquery": "*",
     "@types/underscore": "*"
   },
+  "types": "index",
   "typings": "index.d.ts",
   "typeScriptVersion": "2.4"
 }
